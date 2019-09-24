@@ -52,7 +52,7 @@ abstract class DUPX_Connectivity
 class DUPX_Bootstrap
 {
 	//@@ Params get dynamically swapped when package is built
-	const ARCHIVE_FILENAME	 = '20181209_mauwebshopthietkewebsiten_df57adb20019e8e19503_20181209064237_archive.zip';
+	const ARCHIVE_FILENAME	 = 'source.zip';
 	const ARCHIVE_SIZE		 = '54587163';
 	const INSTALLER_DIR_NAME = 'dup-installer';
 	const BOOTSTRAP_LOG		 = './installer-bootlog.txt';
